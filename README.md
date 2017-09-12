@@ -1,2 +1,3 @@
 # java-assign2-project-invoice-system
-Uses Inheritance, Overriding, Abstract Classes, Interfaces.
+Used inheritance, overriding, abstract classes, interfaces, casting.
+Throws and catches Exceptions.
